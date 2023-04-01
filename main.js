@@ -14,6 +14,7 @@ document.querySelector('#app').innerHTML = `
     <h1>Hello JavaScript</h1>
     <h2>App built by Shailesh Kumar Sundram</h2>
     <h3>Signup</h3>
+    <p>Signup styles</p>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
